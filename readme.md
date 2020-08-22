@@ -1,4 +1,4 @@
-Uses fetch with async await to call a 3rd Party API that generators random quotes. User can see quotes generated on click and tweet that quote on twitter on click. 
+Uses fetch with async await to call a 3rd Party API that generates random quotes. User can see generated quotes on click and tweet the quote on twitter on a click. 
 
 ![Random Quote](/img/quote1.png)
 
